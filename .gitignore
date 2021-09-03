@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Comments/Printing only the longest line/out/
+/Topics/Comments/Printing only the longest line/out/production/classes/
+/Topics/Comments/The forgotten comments/out/
+/Topics/Comments/The forgotten comments/out/production/classes/
+/Topics/Standard input/Four numbers/out/
+/Topics/Standard input/Four numbers/out/production/classes/
+/Topics/Type conversion/Cutting the fraction/out/
+/Topics/Type conversion/Cutting the fraction/out/production/classes/
